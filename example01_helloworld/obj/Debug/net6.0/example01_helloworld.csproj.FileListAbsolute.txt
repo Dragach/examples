@@ -1,0 +1,15 @@
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/bin/Debug/net6.0/example01_helloworld
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/bin/Debug/net6.0/example01_helloworld.deps.json
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/bin/Debug/net6.0/example01_helloworld.runtimeconfig.json
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/bin/Debug/net6.0/example01_helloworld.dll
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/bin/Debug/net6.0/example01_helloworld.pdb
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.csproj.AssemblyReference.cache
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.AssemblyInfoInputs.cache
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.AssemblyInfo.cs
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.csproj.CoreCompileInputs.cache
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.dll
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/refint/example01_helloworld.dll
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.pdb
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/example01_helloworld.genruntimeconfig.cache
+/Users/dragach/geekbrains/кодинг/Examples/example01_helloworld/obj/Debug/net6.0/ref/example01_helloworld.dll
